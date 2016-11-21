@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 www.baidu.com
 
 www.shitbox.com
+=======
+www.sina.com
+>>>>>>> dev
